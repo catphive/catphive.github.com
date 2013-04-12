@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://catphive.github.io/sitemap.xml 
